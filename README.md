@@ -28,3 +28,11 @@ Clean Code Structure: Separation of concerns between frontend and backend and Or
 Backend with Spring Boot: REST controller with proper HTTP mappings and Uses service and repository layers (standard Java Spring Boot practice).
 
 Cross-Origin Communication: Enabled using @CrossOrigin in Spring Boot to allow frontend-backend integration during development.
+
+# Technologies Used:
+
+Frontend: React JS (Vite), JavaScript, Bootstrap, Axios, React Router DOM
+
+Backend: Spring Boot, Java, Spring Data JPA, MySQL
+
+Tools: Postman, Git & GitHub, Maven, VS Code/Eclipse, Node.js & npm
