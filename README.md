@@ -36,3 +36,9 @@ Frontend: React JS (Vite), JavaScript, Bootstrap, Axios, React Router DOM
 Backend: Spring Boot, Java, Spring Data JPA, MySQL
 
 Tools: Postman, Git & GitHub, Maven, VS Code/Eclipse, Node.js & npm
+
+# Installation:
+    npm create vite@latest
+    npm i
+    npm i react-router-dom
+    npm run dev
