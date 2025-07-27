@@ -25,10 +25,6 @@ React with Vite: Fast development and build time using Vite setup and Component-
 
 Clean Code Structure: Separation of concerns between frontend and backend and Organized folders and reusable components.
 
-Backend with Spring Boot:
+Backend with Spring Boot: REST controller with proper HTTP mappings and Uses service and repository layers (standard Java Spring Boot practice).
 
-REST controller with proper HTTP mappings and Uses service and repository layers (standard Java Spring Boot practice).
-
-Cross-Origin Communication:
-
-Enabled using @CrossOrigin in Spring Boot to allow frontend-backend integration during development.
+Cross-Origin Communication: Enabled using @CrossOrigin in Spring Boot to allow frontend-backend integration during development.
